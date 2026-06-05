@@ -66,12 +66,10 @@ AI-Research-Agent/
 
 Add screenshots of:
 
-1. Watsonx Orchestrate Agent
-2. 
-
-3. Knowledge Base
-4. Research Query Results
-5. Website Interface
+1. Watsonx Orchestrate Agent [Watsonx Orchestrate Agent.png]
+2. Knowledge Base [Knowledge Base.png]
+4. Research Query Results [Research Query Results.png]
+5. Website Interface [Website Interface.png]
 
 ## 🌐 Live Demo
 
