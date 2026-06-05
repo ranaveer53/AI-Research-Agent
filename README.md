@@ -73,7 +73,7 @@ Add screenshots of:
 
 ## 🌐 Live Demo
 
-GitHub Pages URL:
+GitHub Pages URL: https://github.com/ranaveer53/AI-Research-Agent.git
 
 
 ## 👨‍💻 Developer
