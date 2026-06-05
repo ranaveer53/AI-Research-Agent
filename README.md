@@ -50,7 +50,6 @@ AI-Research-Agent/
 ├── ProblemStatement.pdf
 ├── ProjectPresentation.pptx
 ├── index.html
-└── assets/
 ```
 
 ## 🎯 Use Cases
