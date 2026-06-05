@@ -48,8 +48,12 @@ AI-Research-Agent/
 ├── README.md
 ├── app.json
 ├── ProblemStatement.pdf
-├── ProjectPresentation.pptx
+├── ProjectPresentation.pdf
 ├── index.html
+├── KnowledgeBase.png
+├── ResearchQueryResults.png
+├── WatsonxOrchestrateAgent.png
+└── WebsiteInterface.png
 ```
 
 ## 🎯 Use Cases
