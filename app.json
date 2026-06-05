@@ -1,0 +1,17 @@
+{
+  "name": "AI Research Agent",
+  "description": "An AI-powered research assistant built using IBM Watsonx Orchestrate and Granite Models. The agent can search literature, summarize papers, generate citations, identify research gaps, suggest hypotheses, and create research reports.",
+  "version": "1.0.0",
+  "author": "Ranaveer Gangarapu",
+  "category": "Agentic AI",
+  "problemStatement": "Research Agent",
+  "technologies": [
+    "IBM Watsonx Orchestrate",
+    "IBM Granite",
+    "IBM Cloud",
+    "RAG",
+    "NLP",
+    "Generative AI"
+  ],
+  "repository": "https://github.com/YOUR_USERNAME/AI-Research-Agent"
+}
